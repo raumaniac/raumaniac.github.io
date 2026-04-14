@@ -20,4 +20,4 @@ tai Hoc vien Cong nghe Buu chinh Vien thong (PTIT).
 He thong giam sat nhiet do su dung cam bien LM35
 ket noi Arduino, hien thi do thi thoi gian thuc tren PC.
 
-[Xem tren GitHub](https://github.com/<username>/Arduino_LM35_TempMonitor)
+[Xem tren GitHub](https://github.com/raumaniac/Arduino_LM35_TempMonitor)

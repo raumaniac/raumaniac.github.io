@@ -12,6 +12,7 @@ author_profile: true
 - GPA: [2.61 / 4.0]
 
 ## Ky nang ky thuat
+
 | Ky nang         | Muc do     | Chi tiet                   |
 |-----------------|------------|----------------------------|
 | C/C++ (Arduino) | Trung binh | Firmware, cam bien, Serial |

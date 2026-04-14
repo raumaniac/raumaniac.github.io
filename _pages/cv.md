@@ -9,7 +9,7 @@ author_profile: true
 **Hoc vien Cong nghe Buu chinh Vien thong (PTIT)**
 - Nganh: [Ten nganh]
 - Thoi gian: 2023 - nay
-- GPA: [X.XX / 4.0]
+- GPA: [2.61 / 4.0]
 
 ## Ky nang ky thuat
 | Ky nang | Muc do | Chi tiet |

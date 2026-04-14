@@ -12,11 +12,12 @@ author_profile: true
 - GPA: [2.61 / 4.0]
 
 ## Ky nang ky thuat
-| Ky nang | Muc do | Chi tiet |
-|---------|--------|----------|
+| Ky nang         | Muc do     | Chi tiet                   |
+|-----------------|------------|----------------------------|
 | C/C++ (Arduino) | Trung binh | Firmware, cam bien, Serial |
-| Python | Co ban | matplotlib, pandas |
-| Git/GitHub | Trung binh | Branch, merge, PR |
+| Python          | Co ban     | matplotlib, pandas         |
+| Git/GitHub      | Trung binh | Branch, merge, PR          |
+
 
 ## Du an
 - **Arduino LM35 Temperature Monitor** - Mon Mang Cam Bien

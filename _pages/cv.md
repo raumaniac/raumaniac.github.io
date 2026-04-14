@@ -7,7 +7,7 @@ author_profile: true
 
 ## Hoc van
 **Hoc vien Cong nghe Buu chinh Vien thong (PTIT)**
-- Nganh: [Ten nganh]
+- Nganh: Nganh Internet van vat (IoT)
 - Thoi gian: 2023 - nay
 - GPA: [2.61 / 4.0]
 
